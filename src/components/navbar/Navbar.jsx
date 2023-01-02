@@ -17,7 +17,7 @@ const Navbar = () => {
           <p><a href="#wgpt3">What is IBT</a></p>
           <p><a href="#possibility">Open AI</a></p>
           <p><a href="#features">Case Studies</a></p>
-          <p><a href="#blog">Library</a></p>
+          <p><a href="#blog">Blog</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">
